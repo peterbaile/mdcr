@@ -1,0 +1,357 @@
+[
+  {
+    "title": "Croucher Scholarship",
+    "url": "https://croucher.org.hk/funding/study-awards/scholarships",
+    "conditions": {
+      "c1": 1,
+      "c2": 3,
+      "c3": "Gained First-Class Honours or equivalent qualifications in your first degree",
+      "c4": "Have, or expect to have, a higher degree (e.g., MSc or MPhil degree) by September 2024.",
+      "c5": "You are in your final year of your first degree",
+      "c6": "Gain First-Class Honours or equivalent qualifications by July 2024",
+      "c7": "You have not yet reached the third year of the PhD program when applying.",
+      "or_1": ["c3", "c4"],
+      "and_1": ["c5", "c6"],
+      "or_2": ["or_1", "and_1"],
+      "all (and)": ["c1", "c2", "or_2", "c7"]
+    },
+    "mapping": {
+      "c3": [4, 5],
+      "c4": [4, 6],
+      "c5": 8,
+      "c6": 8,
+      "c7": 22
+    }
+  },
+  {
+    "title": "Studentships in Hong Kong",
+    "url": "https://croucher.org.hk/funding/study-awards/hk-studentships",
+    "conditions": {
+      "c1": 0,
+      "c2": 2,
+      "c3": "Have gained First-Class Honours (or equivalent qualifications) in your first degree",
+      "c4": "Hold (or expect to have) a higher degree (e.g., MSc or MPhil degree) by September 2024",
+      "c5": "You are in your final year of your first degree",
+      "c6": "Gain First-Class Honours or equivalent qualifications by July 2024",
+      "c7": 6,
+      "c8": "You have not yet reached the third year of the PhD program when applying.",
+      "or_1": ["c3", "c4"],
+      "and_1": ["c5", "c6"],
+      "or_2": ["or_1", "and_1"],
+      "all (and)": ["c1", "c2", "or_2", "c7", "c8"]
+    },
+    "mapping": {
+      "c3": 3,
+      "c4": 3,
+      "c5": 5,
+      "c6": 5,
+      "c8": 15
+    }
+  },
+  {
+    "title": "Hong Kong PhD Fellowship Scheme",
+    "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+    "conditions": {
+      "c1": [3, 4],
+      "c2": [3, 5],
+      "c3": [3, 6],
+      "c4": [3, 7],
+      "c5": [3, 8],
+      "c6": [3, 9],
+      "c7": [3, 10],
+      "c8": [3, 11],
+      "c9": 12,
+      "or_1": ["c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8"],
+      "all (and)": ["or_1", "c9"]
+    }
+  },
+  {
+    "title": "Marshall Scholarships",
+    "url": "https://www.marshallscholarship.org/apply/eligibility",
+    "conditions": {
+      "c1": "Marshall Scholarships finance young Americans of high ability to study for a degree in the United Kingdom in a system of higher education recognised for its excellence.",
+      "c2": 2,
+      "c3": 3,
+      "c4": 4,
+      "c5": 5,
+      "c6": 6,
+      "all (and)": ["c1", "c2", "c3", "c4", "c5", "c6"]
+    },
+    "mapping": {
+      "c1": 0
+    }
+  },
+  {
+    "title": "John Monash Scholarship",
+    "url": "https://www.johnmonash.com/scholarships/about-the-john-monash-scholarship",
+    "conditions": {
+      "c1": 5,
+      "c2": 6,
+      "c3": 7,
+      "c4": 8,
+      "c5": 9,
+      "all (and)": ["c1", "c2", "c3", "c4", "c5"]
+    }
+  },
+  {
+    "title": "Palantir Future Scholarship",
+    "url": "https://www.palantir.com/careers/students/scholarship/future/",
+    "conditions": {
+      "c1": 7,
+      "c2": 8,
+      "c3": 9,
+      "all (and)": ["c1", "c2", "c3"]
+    }
+  },
+  {
+    "title": "Palantir Future Scholarship - Global",
+    "url": "https://www.palantir.com/careers/students/scholarship/future-global/",
+    "conditions": {
+      "c1": 6,
+      "c2": 7,
+      "c3": 8,
+      "all (and)": ["c1", "c2", "c3"]
+    }
+  },
+  {
+    "title": "Two Sigma PhD Fellowship",
+    "url": "https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/",
+    "conditions": {
+      "c1": 5,
+      "c2": 6,
+      "c3": [7, 8],
+      "c4": [7, 9],
+      "c5": [7, 10],
+      "c6": [7, 11],
+      "c7": [7, 12],
+      "c8": 13,
+      "c9": "Students cannot be already supported by another industry fellowship.",
+      "or_1": ["c3", "c4", "c5", "c6", "c7"],
+      "all (and)": ["c1", "c2", "or_1", "c8", "c9"]
+    },
+    "mapping": {
+      "c9": 14
+    }
+  },
+  {
+    "title": "APIA SCHOLARSHIP PROGRAM",
+    "url": "https://apiascholars.org/scholarship/apia-scholarship/",
+    "conditions": {
+      "c1": 3,
+      "c2": "Be a citizen, national, or legal permanent resident of the United States.",
+      "c3": "Citizens of the Republic of the Marshall Islands, Federated States of Micronesia and the Republic of Palau are also eligible to apply",
+      "c4": 5,
+      "c5": "Have a minimum cumulative GPA of 2.7 on a 4.0 scale (unweighted), or equivalent",
+      "c6": "Have earned a GED",
+      "c7": 7,
+      "or_1": ["c2", "c3"],
+      "or_2": ["c5", "c6"],
+      "all (and)": ["c1", "or_1", "c4", "or_2", "c7"]
+    },
+    "mapping": {
+      "c2": 4,
+      "c3": 4,
+      "c5": 6,
+      "c6": 6
+    }
+  },
+  {
+    "title": "The Hertz Fellowship",
+    "url": "https://www.hertzfoundation.org/the-fellowship/eligibility-benefits/",
+    "conditions": {
+      "c1": "be college seniors",
+      "c2": "first-year graduate students",
+      "c3": "in a gap year preparing to apply to graduate school",
+      "c4": 5,
+      "c5": 6,
+      "c6": 7,
+      "c7": 8,
+      "or_1": ["c1", "c2", "c3"],
+      "all (and)": ["or_1", "c4", "c5", "c6", "c7"]
+    },
+    "mapping": {
+      "c1": 4,
+      "c2": 4,
+      "c3": 4
+    }
+  },
+  {
+    "title": "Marion B. Sewer Distinguished Scholarship for Undergraduates",
+    "url": "https://www.asbmb.org/diversity/undergraduate-scholarship",
+    "conditions": {
+      "c1": "Be a U.S. citizen, U.S. national or permanent resident at the time of application.",
+      "c2": "Students with DACA status also are eligible.",
+      "c3": "You are not foreign nationals in the U.S. on a visa.",
+      "c4": "Be enrolled or accepted for enrollment as a full-time student at an accredited two- or four-year institution located in the U.S. or U.S. territories.",
+      "c5": "Be an ASBMB member at the time of application.",
+      "c6": 8,
+      "c7": 9,
+      "or_1": ["c1", "c2"],
+      "and_1": ["or_1", "c3"],
+      "all (and)": ["and_1", "c4", "c5", "c6", "c7"]
+    },
+    "mapping": {
+      "c1": 5,
+      "c2": 5,
+      "c3": 5,
+      "c4": 6,
+      "c5": 7
+    }
+  },
+  {
+    "title": "The American Chemical Society Division of Analytical Chemistry Graduate Fellowship",
+    "url": "https://acsanalytical.org/graduate-student-fellowships/",
+    "conditions": {
+      "c1": "The applicant must be a full-time student working toward a PhD",
+      "c2": "The applicant must have completed the second year of graduate study by the time the fellowship period begins",
+      "c3": "Analytical chemistry must be a central part of the applicant's PhD thesis",
+      "c4": "The applicant's research supervisor must be a member of the American Chemical Society Division of Analytical Chemistry.",
+      "c5": "Only one nomination per research supervisor will be accepted.",
+      "c6": "Nine-month fellowships may begin on June 1, July 1, August 1 or September 1, so applicants for nine-month fellowships must not complete their thesis research before March 1 of the academic year in which they have received an award.",
+      "c7": "Summer Fellowships begin on June 1 of the calendar year, therefore applicants for summer fellowships must not have completed their thesis research before September 1 of a given calendar year.",
+      "c8": "You are not previous 9-month fellowship recipients",
+      "c9": 10,
+      "or_1": ["c6", "c7"],
+      "all (and)": ["c1", "c2", "c3", "c4", "c5", "or_1", "c8", "c9"]
+    },
+    "mapping": {
+      "c1": 7,
+      "c2": 7,
+      "c3": 7,
+      "c4": 7,
+      "c5": 8,
+      "c6": 8,
+      "c7": 8,
+      "c8": 9
+    }
+  },
+  {
+    "title": "Payette Sho-Ping Chin Memorial Academic Scholarship",
+    "url": "https://architectsfoundation.org/our-programs/architecture-scholarships/the-payette-sho-ping-chin-memorial-academic-scholarship/",
+    "conditions": {
+      "c1": 3,
+      "c2": 4,
+      "c3": 5,
+      "c4": 6,
+      "all (and)": ["c1", "c2", "c3", "c4"]
+    }
+  },
+  {
+    "title": "Ron Brown Scholarship Program",
+    "url": "https://ronbrown.org/apply/ron-brown-scholarship/",
+    "conditions": {
+      "c1": 6,
+      "c2": 7,
+      "c3": 8,
+      "c4": 9,
+      "c5": 10,
+      "c6": 11,
+      "c7": "Be a current high school senior at the time of your application.",
+      "c8": "Current college students are not eligible to apply",
+      "and_1": ["c7", "c8"],
+      "all (and)": ["c1", "c2", "c3", "c4", "c5", "c6", "and_1"]
+    },
+    "mapping": {
+      "c7": 12,
+      "c8": 12
+    }
+  },
+  {
+    "title": "The Coca-Cola Scholars Program",
+    "url": "https://www.coca-colascholarsfoundation.org/apply/",
+    "conditions": {
+      "c1": 3,
+      "c2": 4,
+      "c3": 5,
+      "c4": 6,
+      "c5": 7,
+      "c6": [8, 9],
+      "c7": [8, 10],
+      "c8": [8, 11],
+      "c9": [8, 12],
+      "c10": [8, 13],
+      "all (and)": ["c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8", "c9", "c10"]
+    }
+  },
+  {
+    "title": "The Gates Scholarship",
+    "url": "https://www.thegatesscholarship.org/scholarship",
+    "conditions": {
+      "c1": 5,
+      "c2": "From the following ethnicity: African-American",
+      "c3": "From the following ethnicity: American Indian/Alaska",
+      "c4": "From the following ethnicity: Asian & Pacific Islander American",
+      "c5": "From the following ethnicity: Hispanic American",
+      "c6": 7,
+      "c7": 8,
+      "c8": 9,
+      "c9": 10,
+      "c10": 11,
+      "and_1": ["c3", "c10"],
+      "or_1": ["c2", "and_1", "c4", "c5"],
+      "all (and)": ["c1", "or_1", "c6", "c7", "c8", "c9"]
+    },
+    "mapping": {
+      "c2": 6,
+      "c3": 6,
+      "c4": 6,
+      "c5": 6
+    }
+  },
+  {
+    "title": "Hispanic Heritage Youth Awards",
+    "url": "https://hispanicheritage.org/programs/leadership/youth-awards/",
+    "conditions": {
+      "c1": 6,
+      "c2": 7,
+      "c3": 8,
+      "c4": 9,
+      "c5": 10,
+      "all (and)": ["c1", "c2", "c3", "c4", "c5"]
+    }
+  },
+  {
+    "title": "Microsoft Women Scholarship",
+    "url": "https://www.microsoft.com/en-us/diversity/programs/women-at-microsoft-scholarship",
+    "conditions": {
+      "c1": 4,
+      "c2": 5,
+      "c3": 6,
+      "c4": 7,
+      "c5": 8,
+      "c6": 9,
+      "or_1": ["c2", "c6"],
+      "all (and)": ["c1", "or_1", "c3", "c4", "c5"]
+    }
+  },
+  {
+    "title": "The Phi Alpha Theta Undergraduate Scholarships",
+    "url": "https://www.phialphatheta.org/undergraduate-student-scholarship",
+    "conditions": {
+      "c1": "Exceptional student members entering the Fall Semester of their Senior Year",
+      "c2": "Majoring in Modern European History 1815 to Present",
+      "all (and)": ["c1", "c2"]
+    },
+    "mapping": {
+      "c1": 0,
+      "c2": 0
+    }
+  },
+  {
+    "title": "The Phi Alpha Theta Graduate Student Scholarship",
+    "url": "https://www.phialphatheta.org/graduate-student-scholarship",
+    "conditions": {
+      "c1": "Members must be entering graduate school for the first time in fall 2024",
+      "c2": "must be pursuing a Master's degree in History or Library Science-Archives",
+      "c3": "Students currently enrolled in a graduate program are not eligible to apply.",
+      "c4": "Applicant must be a verified member of Phi Alpha Theta.",
+      "all (and)": ["c1", "c2", "c3", "c4"]
+    },
+    "mapping": {
+      "c1": 0,
+      "c2": 0,
+      "c3": 0,
+      "c4": 0
+    }
+  }
+]

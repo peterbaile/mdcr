@@ -1,0 +1,3587 @@
+{
+  "14-15": {
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c2-c7": {
+      "rel": "including"
+    },
+    "c3-c1": {
+      "rel": "included"
+    },
+    "c5-c8": {
+      "rel": "including"
+    },
+    "c8-c7": {
+      "rel": "including"
+    },
+    "c9-c1": {
+      "rel": "including"
+    },
+    "c10-c7": {
+      "rel": "including"
+    }
+  },
+  "14-16": {
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c3-c1": {
+      "rel": "including"
+    },
+    "c4-c3": {
+      "rel": "including"
+    },
+    "c5-c2": {
+      "rel": "included"
+    },
+    "c9-c1": {
+      "rel": "including"
+    }
+  },
+  "14-17": {
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c1-c3": {
+      "rel": "including"
+    },
+    "c3-c1": {
+      "rel": "equivalent"
+    },
+    "c4-c1": {
+      "rel": "included"
+    },
+    "c4-c3": {
+      "rel": "including"
+    },
+    "c5-c4": {
+      "rel": "equivalent"
+    },
+    "c9-c1": {
+      "rel": "including"
+    }
+  },
+  "14-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "including"
+    },
+    "c4-c1": {
+      "rel": "included"
+    },
+    "c9-c1": {
+      "rel": "including"
+    }
+  },
+  "14-19": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c9-c1": {
+      "rel": "conflicting"
+    },
+    "c9-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "included"
+    },
+    "c3-c3": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "choose one"
+    },
+    "c4-c2": {
+      "rel": "choose one"
+    },
+    "c9-c3": {
+      "rel": "choose one"
+    }
+  },
+  "15-16": {
+    "c1-c1": {
+      "rel": "including"
+    },
+    "c5-c4": {
+      "rel": "included"
+    },
+    "c8-c2": {
+      "rel": "included"
+    }
+  },
+  "15-17": {
+    "c8-c4": {
+      "rel": "included"
+    },
+    "c9-c3": {
+      "rel": "including"
+    },
+    "c1-c1": {
+      "rel": "equivalent"
+    }
+  },
+  "15-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c9-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "choose one"
+    },
+    "c9-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "15-19": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c9-c1": {
+      "rel": "conflicting"
+    },
+    "c9-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "16-17": {
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c2-c4": {
+      "rel": "including"
+    }
+  },
+  "16-19": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "including"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "included"
+    }
+  },
+  "16-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "17-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "17-19": {
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "6-7": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "6-8": {
+    "c1-c4": {
+      "rel": "including"
+    }
+  },
+  "6-9": {
+    "c1-c1": {
+      "rel": "including"
+    },
+    "c1-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "6-10": {
+    "c1-c4": {
+      "rel": "including"
+    },
+    "c2-c6": {
+      "rel": "conflicting"
+    }
+  },
+  "6-11": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "6-12": {
+    "c1-c4": {
+      "rel": "including"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "6-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c1-c8": {
+      "rel": "conflicting"
+    }
+  },
+  "6-14": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "6-15": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c9": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "6-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "including"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "6-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "6-18": {
+    "c1-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "6-19": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "including"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "7-8": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "7-9": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "including"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c7": {
+      "rel": "included"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "included"
+    },
+    "c3-c4": {
+      "rel": "included"
+    },
+    "c4-c4": {
+      "rel": "included"
+    },
+    "c5-c4": {
+      "rel": "included"
+    },
+    "c6-c1": {
+      "rel": "included"
+    },
+    "c6-c4": {
+      "rel": "included"
+    }
+  },
+  "7-10": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c7-c6": {
+      "rel": "conflicting"
+    }
+  },
+  "7-11": {
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c1-c2": {
+      "rel": "including"
+    },
+    "c2-c1": {
+      "rel": "included"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "7-12": {
+    "c1-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c7-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "7-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "7-14": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "7-15": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "7-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "included"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "included"
+    }
+  },
+  "7-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "included"
+    },
+    "c4-c3": {
+      "rel": "included"
+    },
+    "c6-c3": {
+      "rel": "included"
+    }
+  },
+  "7-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "7-19": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "8-9": {
+    "c2-c6": {
+      "rel": "including"
+    },
+    "c3-c6": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "8-10": {
+    "c2-c1": {
+      "rel": "equivalent"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c7": {
+      "rel": "including"
+    },
+    "c2-c3": {
+      "rel": "included"
+    },
+    "c3-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "8-11": {
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "8-12": {
+    "c2-c3": {
+      "rel": "including"
+    },
+    "c4-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c2": {
+      "rel": "including"
+    }
+  },
+  "8-13": {
+    "c4-c7": {
+      "rel": "including"
+    },
+    "c4-c8": {
+      "rel": "conflicting"
+    }
+  },
+  "8-14": {
+    "c2-c2": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c3": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "8-15": {
+    "c2-c7": {
+      "rel": "equivalent"
+    },
+    "c3-c7": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "including"
+    },
+    "c5-c8": {
+      "rel": "including"
+    },
+    "c7-c6": {
+      "rel": "including"
+    }
+  },
+  "8-16": {
+    "c4-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c3": {
+      "rel": "included"
+    },
+    "c5-c2": {
+      "rel": "including"
+    }
+  },
+  "8-17": {
+    "c4-c3": {
+      "rel": "including"
+    },
+    "c5-c4": {
+      "rel": "including"
+    },
+    "c5-c6": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "8-18": {
+    "c4-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "8-19": {
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "9-10": {
+    "c1-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c6": {
+      "rel": "including"
+    },
+    "c6-c1": {
+      "rel": "included"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "9-11": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "included"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "including"
+    },
+    "c7-c1": {
+      "rel": "including"
+    }
+  },
+  "9-12": {
+    "c1-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "including"
+    },
+    "c7-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "9-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c1-c8": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c8": {
+      "rel": "included"
+    },
+    "c3-c7": {
+      "rel": "conflicting"
+    },
+    "c6-c6": {
+      "rel": "equivalent"
+    },
+    "c7-c7": {
+      "rel": "conflicting"
+    },
+    "c3-c8": {
+      "rel": "included"
+    },
+    "c7-c8": {
+      "rel": "included"
+    }
+  },
+  "9-14": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c2": {
+      "rel": "included"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "choose one"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "choose one"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "choose one"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "choose one"
+    },
+    "c6-c8": {
+      "rel": "choose one"
+    },
+    "c6-c10": {
+      "rel": "choose one"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c4": {
+      "rel": "choose one"
+    },
+    "c7-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "9-15": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c7": {
+      "rel": "included"
+    },
+    "c7-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "9-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "choose one"
+    },
+    "c2-c3": {
+      "rel": "choose one"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c3": {
+      "rel": "choose one"
+    }
+  },
+  "9-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "9-18": {
+    "c1-c1": {
+      "rel": "including"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "9-19": {
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "included"
+    },
+    "c3-c3": {
+      "rel": "included"
+    },
+    "c7-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "10-11": {
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "including"
+    }
+  },
+  "10-12": {
+    "c1-c3": {
+      "rel": "including"
+    },
+    "c3-c3": {
+      "rel": "including"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "including"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "equivalent"
+    }
+  },
+  "10-13": {
+    "c1-c6": {
+      "rel": "including"
+    },
+    "c2-c6": {
+      "rel": "conflicting"
+    },
+    "c3-c6": {
+      "rel": "including"
+    },
+    "c4-c7": {
+      "rel": "including"
+    },
+    "c4-c8": {
+      "rel": "conflicting"
+    }
+  },
+  "10-14": {
+    "c1-c2": {
+      "rel": "included"
+    },
+    "c2-c2": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "including"
+    },
+    "c4-c4": {
+      "rel": "including"
+    },
+    "c7-c5": {
+      "rel": "equivalent"
+    }
+  },
+  "2-15": {
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    },
+    "c7-c9": {
+      "rel": "conflicting"
+    },
+    "c8-c9": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "2-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    },
+    "c9-c2": {
+      "rel": "including"
+    }
+  },
+  "2-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    },
+    "c9-c4": {
+      "rel": "including"
+    }
+  },
+  "2-18": {},
+  "2-19": {},
+  "3-5": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "3-6": {
+    "c3-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "3-7": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {},
+    "c1-c2": {}
+  },
+  "3-8": {
+    "c2-c2": {
+      "rel": "included"
+    },
+    "c4-c5": {
+      "rel": "included"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "3-9": {
+    "c2-c6": {
+      "rel": "included"
+    },
+    "c3-c1": {
+      "rel": "included"
+    },
+    "c3-c2": {
+      "rel": "including"
+    },
+    "c1-c6": {
+      "rel": "included"
+    },
+    "c3-c3": {
+      "rel": "including"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "3-10": {
+    "c1-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c3": {
+      "rel": "choose one"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "included"
+    },
+    "c2-c3": {
+      "rel": "included"
+    },
+    "c4-c7": {
+      "rel": "included"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "3-12": {
+    "c1-c3": {
+      "rel": "included"
+    },
+    "c4-c2": {
+      "rel": "included"
+    },
+    "c2-c3": {
+      "rel": "equivalent"
+    },
+    "c3-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "3-13": {
+    "c1-c6": {
+      "rel": "included"
+    },
+    "c2-c6": {
+      "rel": "included"
+    },
+    "c3-c7": {
+      "rel": "conflicting"
+    },
+    "c3-c8": {
+      "rel": "conflicting"
+    },
+    "c4-c7": {
+      "rel": "conflicting"
+    },
+    "c4-c8": {
+      "rel": "conflicting"
+    },
+    "c5-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "3-14": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "included"
+    },
+    "c2-c10": {
+      "rel": "included"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "including"
+    },
+    "c4-c5": {
+      "rel": "included"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "including"
+    },
+    "c1-c2": {
+      "rel": "included"
+    },
+    "c1-c8": {
+      "rel": "included"
+    },
+    "c2-c8": {
+      "rel": "included"
+    },
+    "c1-c10": {
+      "rel": "included"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "3-15": {
+    "c2-c7": {
+      "rel": "included"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c8": {
+      "rel": "included"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c7": {
+      "rel": "included"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "3-16": {
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "included"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "3-17": {
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "3-18": {
+    "c1-c1": {
+      "rel": "including"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "3-19": {
+    "c2-c4": {
+      "rel": "including"
+    }
+  },
+  "5-6": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "equivalent"
+    },
+    "c3-c3": {
+      "rel": "equivalent"
+    }
+  },
+  "5-7": {
+    "c1-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "5-9": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "choose one"
+    },
+    "c2-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "5-10": {
+    "c2-c6": {
+      "rel": "conflicting"
+    }
+  },
+  "5-11": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "5-12": {
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "5-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c8": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "5-14": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {},
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c4": {},
+    "c2-c9": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "5-15": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c9": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "5-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "included"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "choose one"
+    }
+  },
+  "5-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "5-18": {
+    "c2-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "5-19": {
+    "c1-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c1-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "10-15": {
+    "c1-c7": {
+      "rel": "equivalent"
+    },
+    "c3-c7": {
+      "rel": "including"
+    },
+    "c4-c9": {
+      "rel": "including"
+    },
+    "c7-c8": {
+      "rel": "including"
+    }
+  },
+  "10-16": {
+    "c7-c2": {
+      "rel": "included"
+    }
+  },
+  "10-17": {
+    "c4-c3": {
+      "rel": "including"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c4": {
+      "rel": "included"
+    }
+  },
+  "10-18": {
+    "c6-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "10-19": {
+    "c6-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "11-12": {},
+  "11-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "conflicting"
+    },
+    "c9-c2": {
+      "rel": "included"
+    }
+  },
+  "11-14": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "included"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "included"
+    }
+  },
+  "11-15": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c9-c1": {
+      "rel": "choose one"
+    },
+    "c9-c9": {
+      "rel": "choose one"
+    }
+  },
+  "11-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "11-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c9-c1": {
+      "rel": "choose one"
+    },
+    "c9-c3": {
+      "rel": "choose one"
+    }
+  },
+  "11-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c9-c1": {
+      "rel": "choose one"
+    },
+    "c9-c2": {
+      "rel": "choose one"
+    }
+  },
+  "11-19": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "12-19": {
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "12-13": {
+    "c3-c6": {
+      "rel": "included"
+    },
+    "c4-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "choose one"
+    },
+    "c4-c8": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "12-14": {
+    "c2-c5": {
+      "rel": "including"
+    },
+    "c3-c2": {
+      "rel": "included"
+    },
+    "c3-c10": {
+      "rel": "choose one"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c8": {
+      "rel": "choose one"
+    },
+    "c4-c4": {
+      "rel": "choose one"
+    }
+  },
+  "12-15": {
+    "c2-c8": {
+      "rel": "including"
+    },
+    "c3-c7": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "12-16": {
+    "c2-c2": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "choose one"
+    }
+  },
+  "12-17": {
+    "c1-c2": {
+      "rel": "equivalent"
+    },
+    "c2-c4": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "12-18": {
+    "c4-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "13-14": {
+    "c2-c5": {
+      "rel": "choose one"
+    },
+    "c6-c2": {
+      "rel": "included"
+    },
+    "c6-c10": {
+      "rel": "included"
+    },
+    "c7-c3": {
+      "rel": "equivalent"
+    },
+    "c7-c9": {
+      "rel": "included"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c8-c1": {
+      "rel": "including"
+    },
+    "c8-c3": {
+      "rel": "including"
+    },
+    "c8-c9": {
+      "rel": "choose one"
+    }
+  },
+  "13-15": {
+    "c1-c2": {
+      "rel": "including"
+    },
+    "c2-c8": {
+      "rel": "including"
+    },
+    "c6-c7": {
+      "rel": "included"
+    },
+    "c7-c1": {
+      "rel": "equivalent"
+    }
+  },
+  "13-16": {
+    "c2-c2": {
+      "rel": "choose one"
+    },
+    "c7-c1": {
+      "rel": "equivalent"
+    },
+    "c8-c1": {
+      "rel": "including"
+    }
+  },
+  "13-17": {
+    "c2-c4": {
+      "rel": "including"
+    },
+    "c7-c1": {
+      "rel": "equivalent"
+    }
+  },
+  "0-1": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "equivalent"
+    },
+    "c1-c7": {
+      "rel": "included"
+    },
+    "c1-c8": {
+      "rel": "included"
+    },
+    "c1-c5": {},
+    "c3-c3": {
+      "rel": "equivalent"
+    },
+    "c4-c4": {
+      "rel": "equivalent"
+    },
+    "c5-c5": {
+      "rel": "equivalent"
+    },
+    "c6-c6": {
+      "rel": "equivalent"
+    },
+    "c7-c8": {
+      "rel": "equivalent"
+    },
+    "c3-c6": {
+      "rel": "included"
+    },
+    "c4-c1": {},
+    "c4-c5": {
+      "rel": "conflicting"
+    },
+    "c4-c6": {},
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c5": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c5-c8": {
+      "rel": "included"
+    },
+    "c6-c3": {
+      "rel": "including"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c5": {
+      "rel": "including"
+    },
+    "c1-c4": {},
+    "c7-c6": {
+      "rel": "including"
+    }
+  },
+  "0-3": {
+    "c1-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "choose one"
+    },
+    "c5-c5": {
+      "rel": "included"
+    },
+    "c6-c4": {
+      "rel": "choose one"
+    },
+    "c4-c3": {
+      "rel": "choose one"
+    },
+    "c5-c3": {},
+    "c7-c3": {
+      "rel": "including"
+    }
+  },
+  "0-2": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c1-c5": {
+      "rel": "conflicting"
+    },
+    "c1-c6": {
+      "rel": "conflicting"
+    },
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c1-c8": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "choose one"
+    },
+    "c6-c9": {
+      "rel": "choose one"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c2": {
+      "rel": "including"
+    },
+    "c7-c3": {
+      "rel": "including"
+    },
+    "c7-c4": {
+      "rel": "including"
+    },
+    "c7-c5": {
+      "rel": "including"
+    },
+    "c7-c6": {
+      "rel": "including"
+    },
+    "c7-c7": {
+      "rel": "including"
+    },
+    "c7-c8": {
+      "rel": "including"
+    }
+  },
+  "0-5": {
+    "c1-c1": {
+      "rel": "including"
+    },
+    "c1-c2": {
+      "rel": "included"
+    },
+    "c7-c1": {
+      "rel": "including"
+    }
+  },
+  "0-6": {
+    "c1-c2": {
+      "rel": "included"
+    },
+    "c7-c1": {
+      "rel": "including"
+    }
+  },
+  "0-7": {
+    "c1-c9": {},
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c1": {
+      "rel": "choose one"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "0-8": {
+    "c2-c1": {
+      "rel": "included"
+    },
+    "c3-c5": {
+      "rel": "choose one"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c5": {
+      "rel": "choose one"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c7-c4": {
+      "rel": "including"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "0-9": {
+    "c1-c4": {
+      "rel": "included"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {},
+    "c5-c1": {
+      "rel": "equivalent"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "0-10": {
+    "c3-c7": {
+      "rel": "included"
+    },
+    "c6-c7": {
+      "rel": "included"
+    },
+    "c7-c4": {
+      "rel": "including"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "0-11": {
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c3-c9": {
+      "rel": "included"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "included"
+    },
+    "c7-c9": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "0-12": {
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "included"
+    },
+    "c5-c4": {
+      "rel": "included"
+    },
+    "c6-c2": {
+      "rel": "included"
+    },
+    "c7-c4": {
+      "rel": "including"
+    }
+  },
+  "0-13": {
+    "c3-c7": {
+      "rel": "conflicting"
+    },
+    "c4-c7": {
+      "rel": "conflicting"
+    },
+    "c5-c7": {
+      "rel": "conflicting"
+    },
+    "c5-c8": {
+      "rel": "conflicting"
+    },
+    "c6-c7": {
+      "rel": "conflicting"
+    },
+    "c7-c7": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c6": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "0-14": {
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c9": {
+      "rel": "including"
+    },
+    "c7-c3": {
+      "rel": "including"
+    }
+  },
+  "0-15": {
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c8": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c9": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c7": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "0-16": {
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "included"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "included"
+    },
+    "c3-c2": {
+      "rel": "included"
+    },
+    "c6-c2": {
+      "rel": "included"
+    },
+    "c6-c3": {
+      "rel": "included"
+    }
+  },
+  "0-17": {
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "included"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "included"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "1-14": {
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "0-18": {
+    "c5-c1": {
+      "rel": "including"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "1-15": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c8": {
+      "rel": "choose one"
+    },
+    "c6-c8": {
+      "rel": "choose one"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c8-c1": {
+      "rel": "including"
+    },
+    "c8-c9": {
+      "rel": "including"
+    }
+  },
+  "0-19": {
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c3": {
+      "rel": "including"
+    }
+  },
+  "1-2": {
+    "c1-c1": {
+      "rel": "including"
+    },
+    "c1-c2": {
+      "rel": "including"
+    },
+    "c1-c3": {
+      "rel": "including"
+    },
+    "c1-c4": {
+      "rel": "including"
+    },
+    "c1-c5": {
+      "rel": "including"
+    },
+    "c1-c6": {
+      "rel": "including"
+    },
+    "c1-c7": {
+      "rel": "including"
+    },
+    "c1-c8": {
+      "rel": "including"
+    },
+    "c3-c9": {
+      "rel": "including"
+    },
+    "c6-c9": {
+      "rel": "including"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c2": {
+      "rel": "including"
+    },
+    "c7-c3": {
+      "rel": "including"
+    },
+    "c7-c4": {
+      "rel": "including"
+    },
+    "c7-c5": {
+      "rel": "including"
+    },
+    "c7-c6": {
+      "rel": "including"
+    },
+    "c7-c7": {
+      "rel": "including"
+    },
+    "c7-c8": {
+      "rel": "including"
+    },
+    "c8-c1": {
+      "rel": "including"
+    },
+    "c8-c2": {
+      "rel": "including"
+    },
+    "c8-c3": {
+      "rel": "including"
+    },
+    "c8-c4": {
+      "rel": "including"
+    },
+    "c8-c5": {
+      "rel": "including"
+    },
+    "c8-c6": {
+      "rel": "including"
+    },
+    "c8-c7": {
+      "rel": "including"
+    },
+    "c8-c8": {
+      "rel": "including"
+    }
+  },
+  "1-16": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "1-3": {
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c5": {
+      "rel": "included"
+    }
+  },
+  "1-17": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c7-c3": {
+      "rel": "choose one"
+    },
+    "c8-c1": {
+      "rel": "including"
+    },
+    "c8-c3": {
+      "rel": "including"
+    }
+  },
+  "1-18": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c8-c1": {
+      "rel": "including"
+    }
+  },
+  "1-19": {
+    "c1-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "13-19": {
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c3": {
+      "rel": "included"
+    },
+    "c8-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "13-18": {
+    "c7-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "2-3": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "1-5": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c8-c2": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "2-5": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "1-6": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "including"
+    },
+    "c3-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c1": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "2-7": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "2-8": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c7-c4": {
+      "rel": "conflicting"
+    },
+    "c8-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "1-7": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "including"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    }
+  },
+  "2-9": {
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    },
+    "c8-c2": {
+      "rel": "conflicting"
+    }
+  },
+  "2-10": {
+    "c1-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c7-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c8-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "2-11": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c2": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c2": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c2": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c2": {
+      "rel": "conflicting"
+    },
+    "c7-c9": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    },
+    "c8-c2": {
+      "rel": "conflicting"
+    },
+    "c8-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "2-12": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c7-c4": {
+      "rel": "conflicting"
+    },
+    "c8-c4": {
+      "rel": "conflicting"
+    }
+  },
+  "1-8": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "included"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c5": {
+      "rel": "included"
+    },
+    "c3-c6": {
+      "rel": "included"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c6": {
+      "rel": "included"
+    },
+    "c5-c6": {
+      "rel": "included"
+    },
+    "c6-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c6": {
+      "rel": "included"
+    },
+    "c8-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "potentially conflicting"
+    },
+    "c7-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "2-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c2-c7": {
+      "rel": "conflicting"
+    },
+    "c3-c7": {
+      "rel": "conflicting"
+    },
+    "c4-c7": {
+      "rel": "conflicting"
+    },
+    "c5-c7": {
+      "rel": "conflicting"
+    },
+    "c6-c7": {
+      "rel": "conflicting"
+    },
+    "c7-c7": {
+      "rel": "conflicting"
+    },
+    "c8-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "2-14": {
+    "c1-c1": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c2-c4": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c4": {
+      "rel": "conflicting"
+    },
+    "c4-c1": {
+      "rel": "conflicting"
+    },
+    "c4-c4": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "conflicting"
+    },
+    "c6-c1": {
+      "rel": "conflicting"
+    },
+    "c6-c4": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "conflicting"
+    },
+    "c7-c4": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c4-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c6-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c3": {
+      "rel": "conflicting"
+    },
+    "c8-c3": {
+      "rel": "conflicting"
+    },
+    "c8-c4": {
+      "rel": "conflicting"
+    },
+    "c1-c9": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    },
+    "c4-c9": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c6-c9": {
+      "rel": "conflicting"
+    },
+    "c7-c9": {
+      "rel": "conflicting"
+    },
+    "c8-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "1-9": {
+    "c1-c4": {
+      "rel": "included"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c1": {
+      "rel": "equivalent"
+    },
+    "c5-c7": {
+      "rel": "conflicting"
+    },
+    "c8-c1": {
+      "rel": "including"
+    },
+    "c8-c2": {
+      "rel": "including"
+    },
+    "c8-c3": {
+      "rel": "including"
+    }
+  },
+  "1-13": {
+    "c1-c7": {
+      "rel": "conflicting"
+    },
+    "c3-c7": {
+      "rel": "conflicting"
+    },
+    "c4-c7": {
+      "rel": "conflicting"
+    },
+    "c5-c8": {
+      "rel": "conflicting"
+    },
+    "c6-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "1-12": {
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "included"
+    }
+  },
+  "1-10": {
+    "c1-c4": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c5-c4": {
+      "rel": "included"
+    },
+    "c7-c4": {
+      "rel": "including"
+    },
+    "c3-c7": {
+      "rel": "included"
+    },
+    "c6-c7": {
+      "rel": "included"
+    }
+  },
+  "1-11": {
+    "c5-c1": {
+      "rel": "conflicting"
+    },
+    "c5-c2": {
+      "rel": "conflicting"
+    },
+    "c5-c9": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "choose one"
+    },
+    "c8-c9": {
+      "rel": "choose one"
+    },
+    "c1-c1": {
+      "rel": "included"
+    },
+    "c1-c2": {
+      "rel": "choose one"
+    },
+    "c1-c9": {
+      "rel": "choose one"
+    },
+    "c5-c3": {
+      "rel": "conflicting"
+    },
+    "c7-c1": {
+      "rel": "including"
+    },
+    "c8-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c8-c2": {
+      "rel": "including"
+    }
+  },
+  "5-8": {
+    "c1-c4": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "8-8": {
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "9-9": {
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "conflicting"
+    },
+    "c1-c7": {
+      "rel": "conflicting"
+    }
+  },
+  "10-10": {
+    "c1-c2": {
+      "rel": "conflicting"
+    },
+    "c1-c3": {
+      "rel": "included"
+    },
+    "c2-c3": {
+      "rel": "included"
+    }
+  },
+  "20-20": {
+    "c1-c3": {
+      "rel": "choose one"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "0-0": {
+    "c3-c5": {
+      "rel": "conflicting"
+    },
+    "c3-c6": {
+      "rel": "conflicting"
+    },
+    "c4-c6": {
+      "rel": "choose one"
+    },
+    "c5-c7": {
+      "rel": "included"
+    }
+  },
+  "3-3": {
+    "c1-c3": {
+      "rel": "choose one"
+    },
+    "c3-c5": {
+      "rel": "choose one"
+    }
+  },
+  "7-7": {
+    "c1-c2": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "1-1": {
+    "c1-c7": {
+      "rel": "choose one"
+    },
+    "c3-c5": {
+      "rel": "conflicting"
+    },
+    "c3-c6": {
+      "rel": "included"
+    },
+    "c4-c5": {
+      "rel": "potentially conflicting"
+    }
+  },
+  "6-6": {},
+  "11-11": {
+    "c1-c2": {
+      "rel": "including"
+    },
+    "c1-c3": {
+      "rel": "choose one"
+    },
+    "c1-c9": {
+      "rel": "choose one"
+    },
+    "c2-c3": {
+      "rel": "choose one"
+    },
+    "c2-c9": {
+      "rel": "choose one"
+    },
+    "c3-c9": {
+      "rel": "choose one"
+    },
+    "c6-c7": {
+      "rel": "choose one"
+    }
+  },
+  "17-17": {
+    "c2-c6": {
+      "rel": "choose one"
+    }
+  },
+  "1-4": {
+    "c1-c3": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c4-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c5-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c6-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c7-c2": {
+      "rel": "choose one"
+    },
+    "c8-c2": {
+      "rel": "choose one"
+    },
+    "c8-c3": {
+      "rel": "including"
+    }
+  },
+  "4-6": {
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    }
+  },
+  "4-11": {
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c3": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c9": {
+      "rel": "choose one"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c2": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "choose one"
+    }
+  },
+  "4-15": {
+    "c1-c7": {},
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c9": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c9": {
+      "rel": "conflicting"
+    }
+  },
+  "4-17": {
+    "c2-c1": {
+      "rel": "conflicting"
+    },
+    "c2-c3": {
+      "rel": "conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    },
+    "c3-c3": {
+      "rel": "conflicting"
+    }
+  },
+  "4-18": {
+    "c2-c1": {
+      "rel": "potentially conflicting"
+    },
+    "c2-c2": {
+      "rel": "potentially conflicting"
+    },
+    "c3-c1": {
+      "rel": "conflicting"
+    }
+  }
+}
