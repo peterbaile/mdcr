@@ -13,7 +13,6 @@ If you find our data, code, or the paper useful, please cite the paper:
 
 ## Dataset
 
-The dataset contains the following
 * `docs.json` (list of dictionaries): a list of benefit documents crawled from the open web. Each dictionary includes the document `title` (string), `url` (string), and `contents` (list of strings)
 * `parsed.json` (list of dictionaries): a list of conditions generated from sentences in `docs.json` (Some sentences might not be describing conditions and some might include multiple conditions. Details are described in Appendix A.1 in the paper.)
   * `conditions` (dictionary): the key in the form of `c[int]` (1-indexed) refers to a condition mentioned in the document; the other keys that start with `and`/ `or` refer to the *AND/OR* relationships of these conditions. `all (and)` is the expression that represents the entire set of conditions need to be satisfied.
@@ -40,7 +39,7 @@ The dataset contains the following
     means that `c1` in `doc1` and `c2` in `doc2` are conflicting.
 
 
-## Evaluation
+<!-- ## Evaluation
 
 Ground truth answers are not stored in files due to the large size, but they can be readily computed (and saved) by the following.
 
@@ -48,11 +47,10 @@ Ground truth answers are not stored in files due to the large size, but they can
 
 ```
 
-## Benchmarking and analysis
+## Benchmarking and analysis -->
 
 
 
 
 ## Contact
-
-If you have any questions or feedback, please send an email to peterbc@mit.edu
+Your support in improving this dataset is greatly appreciated! If you have any questions or feedback, please send an email to peterbc@mit.edu.
