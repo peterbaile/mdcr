@@ -39,15 +39,11 @@ If you find our data, code, or the paper useful, please cite the paper:
     means that `c1` in `doc1` and `c2` in `doc2` are conflicting.
 
 
-<!-- ## Evaluation
+## Evaluation
 
-Ground truth answers are not stored in files due to the large size, but they can be readily computed (and saved) by the following.
+Ground truth answers are not provided as they can be programmatically computed (and saved) by running the `main` function in `get_gold_ans.py`.
 
-```python
-
-```
-
-## Benchmarking and analysis -->
+<!-- ## Benchmarking and analysis -->
 
 
 
